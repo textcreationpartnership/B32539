@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorables concerning our uprightness before God, and our resignation to his will. / Gathered out of Dr. B's  judicious treatises thereof. Thus published for the poor, that want money and memory. By one desirous of poor folks salvation.</title>
+            <author>Baxter, Richard, 1615-1691.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B32539</idno><idno type="EEBO-CITATION">99885370</idno>
+  <idno type="VID">201300</idno>
+  <idno type="EEBO-PROQUEST">2264214613</idno>
+  
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[27]</idno>
+            <idno type="STC">ESTC R222952</idno>
+            <idno type="PROQUEST">ocm99885370</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885370e"/>
+            <note>(EEBO-TCP ; phase 2, no. B32539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201300)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Memorables concerning our uprightness before God, and our resignation to his will. / Gathered out of Dr. B's  judicious treatises thereof. Thus published for the poor, that want money and memory. By one desirous of poor folks salvation.</title>
+                  <author>Baxter, Richard, 1615-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho: Parkhurst at the Bible and Three Crowns in Cheapside near Mercers Chapel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dr. B = Richard Baxter.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Printed in three columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+               <term type="topical_term">Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201300:1"/>
+            <head>Memorables concerning our <hi>Uprightness before God,</hi> and our <hi>Resignation to his Will.</hi>
+            </head>
+            <head type="sub">Gathered out of Dr. <hi>B</hi>'s <hi>Judicious Treatises</hi> thereof. Thus Published for the Poor, that want Money and Memory. By one desirous of poor Folks Salvation.</head>
+            <epigraph>
+               <bibl>Psal. 18. 23.</bibl>
+               <q>I was also upright before him: and I kept my self from MINE Iniquity.</q>
+               <bibl>Mat. 26. 39.</bibl>
+               <q>He fell on his Face, and prayed, saying; O my Father, if it be possible, let this Cup pass from me; nevertheless not as I will, but AS THOƲ WILT.</q>
+            </epigraph>
+            <p>
+               <hi>Quest.</hi> 1. WHat Sin may be named a Mans own?</p>
+            <p>
+               <hi>A. Generally,</hi> every one that he commits, may be named <hi>his own.</hi> All, are Off-springs of the <hi>Lust,</hi> that St. <hi>James</hi> calleth <hi>his own.</hi> The <hi>Devil</hi> can fasten no Guilt upon us, without the Consent of our Wills. But yet some Sins, be more peculiarly and more eminently to be called our own. Namely <hi>such as there is a stronger tendency in us to commit, than others. Such as our Wills and Affections are more engaged unto, than unto others.</hi>
+            </p>
+            <p>These are of <hi>different kinds</hi> in the several <hi>Unregenerate</hi> Persons; in all of whom they do <hi>Reign.</hi> The <hi>Discovery of them,</hi> that is most level to the lowest Christians, is made by their <hi>Causes,</hi> and by their <hi>Effects.</hi>
+            </p>
+            <p>Their <hi>Causes,</hi> are either <hi>Natural</hi> or <hi>Moral. Natural</hi> from the different <hi>Temperaments of Mens Bodies,</hi> and <hi>Con<g ref="char:EOLhyphen"/>nexion of their Passions.</hi> These be the secret Springs of spe<g ref="char:EOLhyphen"/>cial <hi>Inclinations</hi> and <hi>Aversions.</hi> It is true, <hi>corrupted Nature</hi> includes <hi>all</hi> Sin. But there is not an equal Inclination in <hi>every</hi> person unto <hi>all</hi> Sin. In waste ground <hi>some Weeds</hi> be ranker than others, from the quality of the <hi>Soil.</hi> And in the Lives of Men, <hi>some Sins</hi> be more predominant than others, by reason of <hi>peculiar Dispositions.</hi> For <hi>Bodily dispo<g ref="char:EOLhyphen"/>sitions</hi> incline the <hi>Soul.</hi> We see, Men of <hi>Sanguine constitu<g ref="char:EOLhyphen"/>tions</hi> are usually <hi>Light and Vain, Sensual and Riotous, Bold and Aspiring.</hi> Men of <hi>Phlegmatick constitutions</hi> be <hi>Idle and Slow, Cold and Careless,</hi> in things of moment. Men of <hi>Me<g ref="char:EOLhyphen"/>lancholick ones,</hi> are <hi>Suspicious, Soure,</hi> and <hi>not easie to be in<g ref="char:EOLhyphen"/>treated, Jealous,</hi> and often <hi>Revengeful.</hi> And <hi>Cholerick con<g ref="char:EOLhyphen"/>stitutions</hi> of Body, make Men <hi>Heady, Various. Violent, Trou<g ref="char:EOLhyphen"/>blesome to themselves and others.</hi> Moreover, vicious Affecti<g ref="char:EOLhyphen"/>ons run in several Channels, according unto the alterations made in Bodies in Mens several Ages. The <hi>Spring</hi> of cor<g ref="char:EOLhyphen"/>rupt Nature is still <hi>the same,</hi> but the <hi>Course</hi> is <hi>different. Youth</hi> is <hi>Carnal, Presumptuous, easie to be deceived</hi> and <hi>Refra<g ref="char:EOLhyphen"/>ctory to Reason. Middle Age,</hi> is of <hi>cooler Passions, Covetous, Ambitious;</hi> turned unto <hi>more solemn</hi> and <hi>less scandalous Fol<g ref="char:EOLhyphen"/>lies</hi> than those of Youth. <hi>Old Age</hi> has its peculiar Vices. It is <hi>Querulous, Impatient, Covetous, vainly Fearful</hi> of Con<g ref="char:EOLhyphen"/>tempt or Want. Now according to our <hi>Constitutions</hi> and <hi>Ages,</hi> we must make our enquiry for our Own Sin.</p>
+            <p>Our <hi>Passions,</hi> be sensitive cravings for <hi>apprehended good,</hi> or <hi>for the removal of apprehended evil.</hi> Now, Sin being the <hi>disorder of our Desiring faculty,</hi> we may discover what is our predominant Sin, by considering what Affection is <hi>most violent in us;</hi> and <hi>of what others it is productive.</hi> What is it we do most Love; and when disappointed of it, do most Hate such as cause the disappointment, <hi>&amp;c.</hi>
+            </p>
+            <p>The <hi>Moral Causes</hi> of special Sins, are to be found <hi>in the several Callings wherein Men are engaged.</hi> In these, Satan lays his Snares. Secondly, <hi>In the opposite States of Prosperity and Adversity.</hi> Both of which have their special Tempta<g ref="char:EOLhyphen"/>tions adherent; long trains of them. Thirdly, <hi>In the Socie<g ref="char:EOLhyphen"/>ty that we converse with.</hi> Company that we chuse, disco<g ref="char:EOLhyphen"/>vers us unto others; and may discover us unto our selves. Fourthly, <hi>in the Quality of the Times wherein we Live.</hi> There are <hi>Days</hi> named <hi>Evil</hi> in respect of Temptations concomi<g ref="char:EOLhyphen"/>tant, which will require great <hi>circumspection</hi> to preserve our innocence. And in these, our swimming with the Stream, or resisting the Torrent will discover much of our Hearts. It was <hi>Jehosaphat</hi>'s honour; that <hi>he walked in the Commandments of the Lord, and not according to the Doings in</hi> Israel.</p>
+            <p>The <hi>Effects of peculiar Sin,</hi> by which it is made known, are now to be considered. 1. <hi>The Sin that is frequently and easily committed, and is difficulty retracted, that Sin is a Man's own peculiar one.</hi> Frequent actions are from Dispo<g ref="char:EOLhyphen"/>sitions strongly bent. And when the power of a Tempta<g ref="char:EOLhyphen"/>tion is quick and speedy, the sinful Inclination must needs be strong. Add, that it must surely be a darling Lust, that controuls the efficacy of the principles of Conscience con<g ref="char:EOLhyphen"/>cerning good and evil. 2. <hi>That Lust to which others are sub<g ref="char:EOLunhyphen"/>servient, has the supremacy in the Heart.</hi> Sins, do serve one another. <hi>Covetousness</hi> serves <hi>Pride.</hi> And <hi>Pride</hi> is his Sin who Robs and Oppresses for Mony wherewith to support his State and Pomp. 3. <hi>It is the darling Corruption, that in<g ref="char:EOLhyphen"/>grosses the Thoughts.</hi> When the Mind is in continual exer<g ref="char:EOLhyphen"/>cise to compass Riches, Covetousness is then the reigning Passion. 4. <hi>The Sin that you desire to conceal, and are apt to defend or to extenuate, and are impatient of reproof for it, this is your own special Sin.</hi> All Sinners dissemble. And paint their most beloved Sins with least odious Colours. Incon<g ref="char:EOLhyphen"/>tinent Men, call <hi>Lust</hi> a <hi>humane Frailty.</hi> Many Men of fair Tempers, will recoil upon their Reprovers; and some<g ref="char:EOLhyphen"/>times recriminate, that they are as bad as themselves. 5. <hi>The Sin that enlightned Conscience reflects upon with most anguish and remorse, is usually the peculiar one.</hi> It is com<g ref="char:EOLhyphen"/>monly that by which God has been most dishonoured, that the Sinner is then most tormented with. 6. <hi>The Sin that is your own you must seck out among the several kinds of Sin.</hi> Is it <hi>Omission,</hi> or <hi>Commission? Spiritual,</hi> or <hi>Carnal? Personal,</hi> or <hi>Relative?</hi> &amp;c. You must search, even where you may think there is little reason to expect it.</p>
+            <p>
+               <hi>Q.</hi> 2. What is it to preserve one's self from ones own Sin?</p>
+            <p>
+               <hi>A.</hi> It implies two things.</p>
+            <list>
+               <item>1. <hi>Abstaining from the practice of that Sin.</hi>
+               </item>
+               <item>2. <hi>Mortifying the inward affection to that Sin.</hi>
+               </item>
+            </list>
+            <p>He keeps himself from it, who together abhors the Commission of it, and Watches and Prays against the very Inclination unto it.</p>
+            <p>
+               <hi>Q.</hi> 3. How appears it that a Man's so keeping himself from his own special Sin, is an undeceiving evidence of sincerity?</p>
+            <p>
+               <hi>A.</hi> It appears, if we consider,</p>
+            <p n="1">1. <hi>God approves it.</hi> Sincere Christians only, and Accep<g ref="char:EOLhyphen"/>ted ones, can appeal to God. And this, <hi>David</hi> doth; <hi>I was upright before Him.</hi>
+            </p>
+            <p n="2">2. <hi>This keeping one's self from ones own Sin, is equivalent to Perfection and Integrity; and it is opposite unto Guilt.</hi> 'Tis equivalent unto Perfection. <hi>Psal.</hi> 37. 37. <hi>Mark the perfect man, and behold the upright, the end of that Man is peace.</hi> 'Tis opposite to Guile. <hi>Jo.</hi> 1. 47. <hi>Behold an Israelite indeed in whom is no guile!</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> 4. What is hence to be learned?</p>
+            <p>A. 1. <hi>The making this our Rule to judge our selves by.</hi> 2. <hi>The keeping our selves with all diligence from our own ini<g ref="char:EOLhyphen"/>quity.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> 5. What Motives are unto this?</p>
+            <p>
+               <hi>A.</hi> These Six.</p>
+            <p>M. 1. <hi>Habitual indulged Lusts are irreconcileable with the state of Grace.</hi> They render us uncapable of God's <hi>par<g ref="char:EOLhyphen"/>doning Mercy</hi> here; and of the <hi>Heavenly Glory</hi> hereafter. Continued in, they do so.</p>
+            <p>M. 2. <hi>We may by Divine Grace, subdue the strongest Lusts, that from our Nature and Temper, from Custom, or from In<g ref="char:EOLhyphen"/>terests carnal, have rule over us.</hi> The new Covenant assures Believers, that <hi>sin shall not have dominion over them,</hi> because they are not under the <hi>Law</hi> but under <hi>Grace,</hi> Rom. 6. 14.</p>
+            <p>M. 3. <hi>Our subduing the ruling Lust, will make the Victo<g ref="char:EOLhyphen"/>ry over other sins more easie.</hi> For that is the Root whence others do spring and are fed. And besides, <hi>one</hi> Victory inspires with courage to atchieve <hi>another.</hi> The <hi>Indians,</hi> when they had killed <hi>one Spaniard,</hi> took Heart and resol<g ref="char:EOLhyphen"/>ved to Fight the rest. The <hi>Romans</hi> counted that they had killed an Host of their Enemies, in one <hi>Mithridates.</hi>
+            </p>
+            <p>M. 4. <hi>Our Sins cost our Saviour his Sacred Blood, to pur<g ref="char:EOLhyphen"/>chase their Pardon, and our freedom from their Dominion.</hi> This <hi>purely Evangelical Argument,</hi> has an admirable Effi<g ref="char:EOLhyphen"/>cacy to inspire <hi>Zeal,</hi> and make <hi>Sin</hi> odious. Even the <hi>Sin</hi> that has been as <hi>near</hi> to us as our <hi>Bosoms;</hi> as <hi>pleasant</hi> as our corrupt <hi>Inclinations,</hi> as <hi>familiar</hi> and <hi>intimate</hi> as <hi>Custom,</hi> 2 <hi>Cor.</hi> 5. 14.</p>
+            <p>M. 5. <hi>The blessed Reward of Ʋprightness, comprehends all good of Time and of Eternity.</hi> God is graciously ready to supply all their <hi>Wants,</hi> allay all their <hi>Sorrows,</hi> overcome all their <hi>Fears,</hi> satisfie all their <hi>Desires,</hi> when his Servants are upright. And nothing but <hi>Experience,</hi> can make the great<g ref="char:EOLhyphen"/>ness of their Reward to be understood. <hi>Light is sown for the Righteous, and Joy for the upright in Heart,</hi> Psal.</p>
+            <p>M. 6. <hi>Woful are the Effects of indulging your peculiar Sins; the Lusts that by Pleasure or Profit bribe you. Accusing Con<g ref="char:EOLhyphen"/>science</hi> begins <hi>Hell</hi> here. Sin's <hi>memory,</hi> in <hi>the approaches of Death</hi> is very ghastly. The power of God's wrath, is then more in sight. But the <hi>prepared Plagues in next World,</hi> do exceed all the <hi>most fearful Apprehensions</hi> in this World. There is perfection of misery. <hi>A Life in torments that ne<g ref="char:EOLhyphen"/>ver Dies, a Death that never ends,</hi> Well then,</p>
+            <p>
+               <hi>Q.</hi> 6. What are the Means requisite for preserving us from our special Sins?</p>
+            <p>
+               <hi>A.</hi> Let it be considered, <hi>Medicines be not Sweet-meats.</hi> Rules for <hi>Recovery</hi> and <hi>Preservation</hi> of Health will seem <hi>harsh,</hi> and be <hi>distastful</hi> unto Minds carnal. But, if we will <hi>keep our selves from our own Iniquity,</hi> we must follow them.</p>
+            <p>R. 1. <hi>We must be inquisitive, and get to understand, inti<g ref="char:EOLhyphen"/>mately and distinctly what our own Sins be.</hi> Against <hi>undiscern<g ref="char:EOLhyphen"/>ed Enemies</hi> we cannot be provided of <hi>Defence;</hi> but must fall by them <hi>without Resistance.</hi>
+            </p>
+            <p>R. 2. <hi>We must use diligent Watchfulness and Circumspecti<g ref="char:EOLhyphen"/>on, to prevent and resist our special Sins.</hi> To wit, when we have gained the <hi>knowledge</hi> of them, and <hi>sense</hi> of our danger from them.</p>
+            <p>R. 3. <hi>We must seriously Resolve and solemnly Engage our selves, not to yield unto our special Sins.</hi> This we must do, with Dependance upon the PRESENT and the PERPE<g ref="char:EOLhyphen"/>TUAL assistance of the Divine Grace. Without which, our Resolutions <hi>cannot be</hi> sincere, and <hi>will not</hi> be effectual. But be broke by the <hi>next tempting Objects;</hi> as easily, as the strings of a <hi>Cobweb</hi> be broke by <hi>a strong gust of Wind;</hi> or Walls of <hi>Glass</hi> by the <hi>Battery of Cannon.</hi>
+            </p>
+            <p>R. 4. <hi>We must rise by speedy and deep Repentance, when we have neglected our Watch, and fallen into the Sin that we are peculiarly prone unto.</hi> This is necessary to <hi>recover</hi> God's fa<g ref="char:EOLhyphen"/>vour, and to <hi>preserve</hi> us for the future. Many, many have been cut off in early Sins, and lost their <hi>Times,</hi> their <hi>Hopes,</hi> and their <hi>Souls</hi> for ever. However, by continuance in Sin, the Heart grows both more UNABLE, and more UNWILLING to resist and mortifie it. Fresh Wounds are of easier Cure than inveterate Ulcers.</p>
+            <p>R. 5. <hi>We must fervently and constantly pray for the Re<g ref="char:EOLhyphen"/>newing Grace of God.</hi> It is <hi>by the Spirit of Holiness</hi> that we are able to <hi>mortifie the deeds of the Body.</hi> And if we inter<g ref="char:EOLhyphen"/>mit Prayer, we must not expect the H. Spirits aids there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>R. 6. <hi>We must act Faith in our Redeemer.</hi> This is the Soveraign and Effectual Means. Christ is the Fountain of <hi>Inherent</hi> as well as of <hi>Imputed</hi> Righteousness. It is <hi>through Christ strengthning we can do all things.</hi> It is He <hi>gives Re<g ref="char:EOLhyphen"/>pentance.</hi> It is He <hi>blesses us in turning us from our Iniquities.</hi> Mortification of Sin, is attributed to his Death, in re<g ref="char:EOLhyphen"/>spect of <hi>meritorious procurement;</hi> and in respect of its being <hi>a Representation of it.</hi> Our <hi>crucifying the Flesh with its Af<g ref="char:EOLhyphen"/>fections and Lusts</hi> is a lively resemblance of his Death. Which was designed to be <hi>operative</hi> in us of the death of Sin, and to be <hi>significative</hi> of the same. Besides; Christ's Death mortifies Sin <hi>by Moral Influence.</hi> As it expresses Gods <hi>transcendent Love</hi> unto us; that <hi>draws</hi> us from Sin. And as it no less expresses Gods <hi>holy severity against Sin,</hi> that <hi>affrights and drives</hi> us from Sin. Now, Faith in Christ both OBLIGES and ENCOURAGES us to subdue our Sins. And it has (in the word) a <hi>cleansing Vertue,</hi> and a <hi>victorious efficacy,</hi> attributed unto it. It <hi>purifies the heart,</hi> and it <hi>overcomes the world.</hi>
+            </p>
+            <p>Concerning the great Duty of <hi>Resignation to the dispo<g ref="char:EOLhyphen"/>sing W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll of God,</hi> observe,</p>
+            <p>
+               <hi>Entire Resignation</hi> to God's disposing Will is our <hi>indis<g ref="char:EOLhyphen"/>pensable Duty</hi> under the <hi>sharpest Afflictions.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> 1. What is consistent with this Resignation?</p>
+            <p>
+               <hi>A.</hi> 1. <hi>Earnest Prayer</hi> against impending Judgments, is consistent with it. Christ <hi>Resigned</hi> to Gods will, yet <hi>Pray<g ref="char:EOLhyphen"/>ed</hi> the Cup might pass. 2. <hi>A mournful sense</hi> of Affliction is consistent with it. If we do not at all mourn, we de<g ref="char:EOLhyphen"/>spise God's Rod.</p>
+            <p>
+               <hi>Q.</hi> 2. What does Resignation to Gods will, include in it?</p>
+            <p>
+               <hi>A.</hi> It includes, 1. Our <hi>Minds assent</hi> to the Righteous<g ref="char:EOLhyphen"/>ness and Goodness of what God doeth. 2. <hi>Our Wills con<g ref="char:EOLhyphen"/>sent</hi> and subjection to Gods Orders, though against our own Inclinations. 3. <hi>Our Affections composure</hi> unto a just temper; and their restraint from sinful excesses in their <hi>Degrees,</hi> and in their <hi>Continuance.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> 3. What are the Arguments for this Resignation?</p>
+            <p>
+               <hi>A.</hi> 1. God has <hi>supream right</hi> in our Persons, and in All we enjoy. 2. God is <hi>Righteous in all his ways,</hi> and will not wrong us. 3. God's <hi>Power is uncontroulable,</hi> and it is vain to contend with Him. 4. Gods Fatherly <hi>afflictions deserve our Love</hi> and Thanks. 5. God's <hi>Wisdom orders all</hi> in the best manner <hi>for his Glory;</hi> which is to be preferred above all, our <hi>Life it self:</hi> And <hi>for our final Good,</hi> which is to be preferred above <hi>present Ease.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> 4. What Directions are useful for our Resigning to Gods Will?</p>
+            <p>
+               <hi>A.</hi> 1. Look <hi>to Jesus Christ,</hi> the grand Exemplar; his <hi>Resignation</hi> and his <hi>Reward.</hi> 2. Look <hi>to Saints in all Ages. Jam.</hi> 5. 10. 3. Look to <hi>all Creatures,</hi> how they obey God's Will. <hi>Angels</hi> above us; and those of rank below us, <hi>Ra<g ref="char:EOLhyphen"/>vens</hi> and <hi>Lions.</hi> 4. Look to the glorious <hi>excellency of the Wills that are united unto Gods Will.</hi> 'Tis our highest Perfection. 5. Look to the <hi>Felicity that is in Resignation.</hi> It quiets our <hi>Hearts,</hi> it makes our <hi>Election</hi> sure, and our <hi>Adoption.</hi> 6. Look how <hi>short your suffering Time</hi> is. Weeping endures but for a Night. Add hereto, it concerns you,</p>
+            <p>1. To Believe stedfastly Gods <hi>Providence</hi> and <hi>Promises.</hi> 2. To make <hi>GOD the supream Object of your Esteem and Af<g ref="char:EOLhyphen"/>fections.</hi> 3. To moderate your <hi>Valuations</hi> and <hi>Affections</hi> to all things below. 4. To <hi>forecast possible</hi> evils as <hi>future,</hi> and as coming on you; and make it your Motto, <hi>Never secure.</hi> 5. To reflect seriously and mournfully upon <hi>your guilt and deservings from God's Justice. In the day of Adversity consi<g ref="char:EOLhyphen"/>der. Godly</hi> sorrow, lessens <hi>Natural.</hi> 6. To apply your Minds to consider <hi>your Blessings</hi> as well as <hi>your Sufferings.</hi> 7. To Pray <hi>frequently</hi> and <hi>fervently. Is any afflicted? let him Pray.</hi>
+            </p>
+            <p>That your Prayers may prevail; Pray 1. With your Eye to Gods <hi>Mercy,</hi> and Christs <hi>Merit.</hi> 2. With your Heart submissive to Gods <hi>Will</hi> and <hi>Wisdom.</hi> 3. With your Haste more for <hi>Grace,</hi> than for <hi>Comfort.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Tho: Parkhurst <hi>at the</hi> Bible <hi>and</hi> Three Crowns <hi>in</hi> Cheapside <hi>near</hi> Mercers <hi>Chapel:</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
